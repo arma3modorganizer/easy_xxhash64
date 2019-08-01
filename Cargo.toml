@@ -9,7 +9,7 @@ license = "Apache-2.0"
 [badges]
 appveyor = { repository = "Scarjit/easy_xxhash64", branch = "master", service = "github" }
 travis-ci = { repository = "arma3modorganizer/easy_xxhash64", branch = "master" }
-#coveralls = { repository = "https://github.com/arma3modorganizer/CLI-Interface", branch = "master", service = "github" }
+coveralls = { repository = "https://github.com/arma3modorganizer/easy_xxhash64", branch = "master", service = "github" }
 maintenance = { status = "actively-developed" }
 
 [dependencies]

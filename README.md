@@ -14,8 +14,10 @@ Easy to use crypto libary for xxHash64, based on [rust-fasthash](https://github.
      - Wraps IOError into CryptoError.
    - hash_byte_vec provides `Vec<u8> -> u64`.
  
- ## Licenses
- ### [EasyXXHash64](https://github.com/arma3modorganizer/EasyXXHash64)
+## Licenses
 EasyXXHash64 is developed under [Apache 2.0 License](https://github.com/arma3modorganizer/EasyXXHash64/LICENSE).
 
 EasyXXHash64 is based on [rust-fasthash](https://github.com/flier/rust-fasthash), released under [Apache 2.0 License](https://github.com/flier/rust-fasthash/blob/master/LICENSE).
+
+## Credits
+ - [Jetbrains](https://www.jetbrains.com/) for CLion <3
