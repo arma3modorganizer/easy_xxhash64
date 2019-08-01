@@ -1,10 +1,16 @@
 [package]
 name = "easy_xxhash64"
-version = "1.1.4"
+version = "1.1.5"
 authors = ["Scarjit <scarjit@aol.com>"]
 edition = "2018"
+description = "Easy API to use xxHash for byte vectors and files."
+license = "Apache-2.0"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[badges]
+appveyor = { repository = "Scarjit/easy_xxhash64", branch = "master", service = "github" }
+travis-ci = { repository = "arma3modorganizer/easy_xxhash64", branch = "master" }
+#coveralls = { repository = "https://github.com/arma3modorganizer/CLI-Interface", branch = "master", service = "github" }
+maintenance = { status = "actively-developed" }
 
 [dependencies]
 custom_error = "1.7.1"
