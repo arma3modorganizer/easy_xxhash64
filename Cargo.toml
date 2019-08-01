@@ -1,6 +1,6 @@
 [package]
 name = "easy_xxhash64"
-version = "1.1.5"
+version = "1.1.6"
 authors = ["Scarjit <scarjit@aol.com>"]
 edition = "2018"
 description = "Easy API to use xxHash for byte vectors and files."
